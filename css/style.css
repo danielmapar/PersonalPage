@@ -19,6 +19,7 @@
 		-webkit-border-radius: 150px;
 		-moz-border-radius: 150px;
 		background: url("../images/profile.png") no-repeat;
+		background-size: 100%;
 		box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 		-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 		-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -953,7 +954,7 @@
 
 		background: #e8eef4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 5em 5em 1em 5em;
 		text-align: center;
 	}
 
